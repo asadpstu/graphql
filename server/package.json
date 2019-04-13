@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "graphql-nodejs-react",
   "version": "1.0.0",
   "description": "Its node.js react graphql playground ",
   "main": "index.js",
@@ -9,6 +9,8 @@
   "author": "H M Asad",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.1"
   }
 }
